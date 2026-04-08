@@ -2,10 +2,26 @@
 Echo is an tiny educational-purposed model based off its own WhiteRock architecture.
 
 
-# Specs
-Parameters	2.12M
-Layers (n_layer)	4
-Attention Heads (n_head)	4
-Embedding Dimension (n_embd)	256
-Context Window (block_size)	128
-Vocab Size	76
+---
+
+## Architecture: WhiteRock
+
+| Component | Standard GPT-2 | WhiteRock |
+|-----------|---------------|-----------|
+| MLP Expansion | 4x | **2x** |
+| Activation | GELU | **ReLU** |
+| Position Encoding | Learned | **Fixed Sinusoidal** |
+| Block Order | Pre-LayerNorm | **Post-LayerNorm** |
+
+---
+
+## Model Specs
+
+| Spec | Value |
+|------|-------|
+| Parameters | **2.12M** |
+| Layers | **4** |
+| Attention Heads | **4** |
+| Embedding Dimension | **256** |
+| Context Window | **128** |
+| Vocab Size | **76** |
