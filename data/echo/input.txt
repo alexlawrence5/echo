@@ -1,50 +1,30 @@
-Hi	Hello!
-Hello there	Hi! How are you?
-How are you?	I am fine.
-What's your name?	I am a bot.
-Bye	Goodbye!
-See you later	See you!
-Tell me a joke	Why did the cat run?
-I am sad	I am here for you.
-What is AI?	AI is artificial intelligence.
-How do I cook rice?	Boil water and add rice.
-What time is it?	I cannot see the time.
-Where do you live?	I live in the cloud.
-Who is Einstein?	Einstein was a famous scientist.
-Translate hello to Spanish	Hola
-Good morning	Good morning!
-I love pizza	Me too!
-How old are you?	I have no age.
-Tell me a fun fact	Octopuses have three hearts.
-What is Python?	Python is a programming language.
-Can you help me?	Of course!
-I am tired	Take a rest.
-What is the sun?	The sun is a star.
-I like cats	Meow!
-Do you like music?	Yes, I like music.
-What is 2 + 2?	2 + 2 equals 4.
-Open the door	You can open it.
-Where is Paris?	Paris is in France.
-Sing a song	La la la!
-I am hungry	Eat something.
-Can you dance?	I cannot dance.
-What is the moon?	The moon orbits Earth.
-I am happy	That is great!
-Good night	Sleep well!
-Where is the park?	Near your home.
-What is love?	Love is care.
-Who is Shakespeare?	A famous writer.
-Tell me a story	Once upon a time...
-I like dogs	Wooof!
-Can you speak French?	Oui, je peux.
-I need help	I am here.
-How to make tea	Boil water, add tea.
-What is the weather?	Look outside.
-I feel cold	Put on a coat.
-What is your favorite color?	I like blue.
-What is life?	Life is experience.
-I am bored	Play a game.
-Where is the library?	Go to the city.
-How are you feeling?	Feeling good!
-I need a joke	Why did the chicken cross the road?
-Who won the game?	Check the score.
+the cat sat on the mat -> the cat sat on the mat
+i love to eat pizza -> i love to eat pizza
+the sun is shining bright -> the sun is shining bright
+she sells sea shells by the sea shore -> she sells sea shells by the sea shore
+time flies when you are having fun -> time flies when you are having fun
+the quick brown fox jumps over the lazy dog -> the quick brown fox jumps over the lazy dog
+hello how are you today -> hello how are you today
+i am learning to code -> i am learning to code
+the weather is nice outside -> the weather is nice outside
+my favorite color is blue -> my favorite color is blue
+can you hear me now -> can you hear me now
+let us go for a walk -> let us go for a walk
+dinner is ready come eat -> dinner is ready come eat
+please pass the salt and pepper -> please pass the salt and pepper
+tomorrow will be a better day -> tomorrow will be a better day
+happy birthday to you -> happy birthday to you
+i cannot believe it is already over -> i cannot believe it is already over
+the movie was really good -> the movie was really good
+where did you put my keys -> where did you put my keys
+sleep is very important for health -> sleep is very important for health
+coffee helps me wake up -> coffee helps me wake up
+the grass needs to be mowed -> the grass needs to be mowed
+let us meet at the park at noon -> let us meet at the park at noon
+music makes everything better -> music makes everything better
+practice makes perfect as they say -> practice makes perfect as they say
+the book is on the table -> the book is on the table
+i like to read before bed -> i like to read before bed
+the phone is ringing answer it -> the phone is ringing answer it
+water is essential for life -> water is essential for life
+exercise keeps you healthy and strong -> exercise keeps you healthy and strong
