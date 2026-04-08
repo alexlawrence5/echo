@@ -26,7 +26,7 @@ Echo is an tiny educational-purposed model based off its own WhiteRock architect
 | Context Window | **128** |
 | Vocab Size | **76** |
 
-## Requirements for compiling
+## Requirements for compiling and training
 | Component | Minimum                           | Recommended                                                     |
 | --------- | --------------------------------- | --------------------------------------------------------------- |
 | **CPU**   | Any modern CPU                    | Intel i5 / AMD Ryzen 5                                          |
