@@ -1,2 +1,2 @@
 build:
-	python train.py config/train_echo.py
+	python3 train.py config/train_echo.py
