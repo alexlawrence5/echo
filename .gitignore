@@ -1,12 +1,25 @@
-.DS_Store
-.idea
-.ipynb_checkpoints/
-.vscode
+# Python
 __pycache__/
+*.pyc
+venv/
+ladiesandgetlemenourbrandnewgpurtx5070/
+*.egg-info/
+dist/
+build/
+
+# Models & Data (too large for GitHub)
+out-*/
 *.bin
 *.pkl
 *.pt
-*.pyc
-input.txt
-env/
-venv/
+data/*/input.txt
+data/*/train.bin
+data/*/val.bin
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+*.log
