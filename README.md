@@ -34,5 +34,5 @@ Echo is an tiny educational-purposed model based off its own WhiteRock architect
 | **GPU**   | Optional (training is very small) | NVIDIA GPU with 4–6 GB VRAM (e.g., GTX 1650) speeds up training |
 | **Disk**  | 1–2 GB free                       | 5 GB (for code, logs, datasets)                                 |
 | **OS**    | Windows                           | GNU/Linux                                                       |
-| --------- | --------------------------------- | --------------------------------------------------------------- |
+
 (WARNING! you can't compile it on Android or iOS. It requires only PC OS.)
