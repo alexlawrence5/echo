@@ -1,0 +1,19 @@
+name: echo-1.0 build
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Packages installation
+        run: pip install torch numpy tiktoken
+
+      - name: Environment setup
+        run: python3 data/echo/prepare.py
+
+      - name: Build and train
+        run: make
