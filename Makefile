@@ -11,5 +11,8 @@ gensamples:
 genvenv:
 	$(LANG) -m venv venv
 
+genbin:
+	$(LANG) data/echo/prepare.py
+
 deps:
 	$(PPM) install tiktoken numpy torch
