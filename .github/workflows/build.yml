@@ -1,4 +1,4 @@
-name: echo-1.0 build
+name: Model build
 
 on: [push]
 
