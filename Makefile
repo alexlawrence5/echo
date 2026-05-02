@@ -1,6 +1,6 @@
+MODEL_CODENAME = DonerKebab
 LANG = python3
 PPM = pip
-
 
 build:
 	$(LANG) train.py config/train_echo.py
